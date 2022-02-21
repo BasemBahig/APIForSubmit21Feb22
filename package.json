@@ -1,0 +1,24 @@
+{
+  "name": "apiforsubmit21feb22",
+  "version": "1.0.0",
+  "description": "API for submit third Time",
+  "main": "index.js",
+  "scripts": {
+    "prettier": "prettier --config .prettierrc \"src/**/*.js\" --write"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BasemBahig/APIForSubmit21Feb22.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BasemBahig/APIForSubmit21Feb22/issues"
+  },
+  "homepage": "https://github.com/BasemBahig/APIForSubmit21Feb22#readme",
+  "devDependencies": {
+    "prettier": "^2.5.1",
+    "typescript": "^4.5.5"
+  }
+}
