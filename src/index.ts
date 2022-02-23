@@ -4,8 +4,9 @@
   
   export default myFunc;*/
   
-  import express, { query } from 'express';
-import { appendFile } from 'fs';
+  import express from 'express';
+  //import routes from './index';
+  //routes.use('/api',routes);
 const app = express();
 const port =3100;
 app.listen(port, ()=>{
