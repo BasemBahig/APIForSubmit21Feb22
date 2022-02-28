@@ -10,6 +10,7 @@ const app = express();
 const port =3100;
 app.use('/api', routes);
 
+
 app.listen(port, ()=>{
     console.log(`Server is up and running on http://localhost:${port}`)
 });
